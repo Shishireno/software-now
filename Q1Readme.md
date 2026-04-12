@@ -78,7 +78,9 @@ When executed, the program performs the following steps:
 2. Read and encrypt the original text file  
 3. Store the encrypted output and rule data  
 4. Decrypt the encrypted file using stored rules  
-5. Verify that the decrypted text matches the original  
+5. Verify that the decrypted text matches the original
+
+https://github.com/Shishireno/software-now/blob/6334b02754e9ef366f97f077d022822b192d0b54/Q1.png
 
 ---
 
